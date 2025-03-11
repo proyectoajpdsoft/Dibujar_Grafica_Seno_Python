@@ -1,6 +1,8 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
+# Modificamos para probar Git
+
 # Definir los tamaños del eje X e Y
 x = np.linspace(-10, 10, 400)
 # Establecemos la función seno al eje Y
